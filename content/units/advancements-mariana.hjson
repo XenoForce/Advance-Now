@@ -1,0 +1,12 @@
+
+// Was defined as: (type: naval)
+
+type: flying
+flying: true
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true

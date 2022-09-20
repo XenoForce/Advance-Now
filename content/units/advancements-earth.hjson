@@ -1,0 +1,9 @@
+
+// Was defined as: (type: payload)
+
+speed: 3.0
+
+accel: 0.7
+drag: 0.1
+
+alwaysUnlocked: true
