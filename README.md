@@ -1,2 +1,2 @@
 # Advance-Now
-Unlocks components from mod Advancements
+Unlocks components from the "Advancements" mod.
