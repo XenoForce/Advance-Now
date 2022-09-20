@@ -1,0 +1,44 @@
+type: UnitFactory
+name: Unit Factory (Advance)
+description: Unit Factory (Advance)
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: advancements-meteor        , time: 90, requirements: [] }    // (type = flying) (health:     180) (aka: ___)
+	{ unit: advancements-asteroid      , time: 90, requirements: [] }    // (type = flying) (health:     520) (aka: ___)
+	{ unit: advancements-twilight      , time: 90, requirements: [] }    // (type = flying) (health:  64,600) (aka: ___)
+	{ unit: advancements-nadir         , time: 90, requirements: [] }    // (type = flying) (health: 174,000) (aka: ___)
+	
+	{ unit: advancements-anvil         , time: 90, requirements: [] }    // (type = mech) (health:  78,600) (aka: ___)
+	{ unit: advancements-fornax        , time: 90, requirements: [] }    // (type = mech) (health: 180,000) (aka: ___)
+	
+	{ unit: advancements-stella        , time: 90, requirements: [] }    // (type = legs) (health:  62,500) (aka: ___)
+	{ unit: advancements-toxicity      , time: 90, requirements: [] }    // (type = legs) (health:  83,900) (aka: ___)
+	{ unit: advancements-virgo         , time: 90, requirements: [] }    // (type = legs) (health:  97,000) (aka: ___)
+	{ unit: advancements-xenoct        , time: 90, requirements: [] }    // (type = legs) (health: 210,000) (aka: ___)
+	
+	{ unit: advancements-mariana       , time: 90, requirements: [] }    // (type = naval) (health:  67,200) (aka: ___)
+	{ unit: advancements-orca          , time: 90, requirements: [] }    // (type = naval) (health:  68,200) (aka: ___)
+	{ unit: advancements-magnapinna    , time: 90, requirements: [] }    // (type = naval) (health: 137,200) (aka: ___)
+	{ unit: advancements-balaenoptera  , time: 90, requirements: [] }    // (type = naval) (health: 158,200) (aka: ___)
+	
+	{ unit: advancements-comet         , time: 90, requirements: [] }    // (type = payload) (health:   1,520) (aka: ___)
+	{ unit: advancements-planetoide    , time: 90, requirements: [] }    // (type = payload) (health:   6,320) (aka: ___)
+	{ unit: advancements-moon          , time: 90, requirements: [] }    // (type = payload) (health:  26,320) (aka: ___)
+	{ unit: advancements-hex           , time: 90, requirements: [] }    // (type = payload) (health:  80,000) (aka: ___)
+	{ unit: advancements-earth         , time: 90, requirements: [] }    // (type = payload) (health: 250,000) (aka: ___)
+	{ unit: advancements-colossus      , time: 90, requirements: [] }    // (type = payload) (health: 287,000) (aka: ___)
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true
