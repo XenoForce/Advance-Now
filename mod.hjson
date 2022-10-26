@@ -1,7 +1,15 @@
 name: to-advance-now
-displayName: Advance Now
-author: XenoTale
-description: Unlocks components from the Advancements mod.
+displayName: Advancements - Liberated
+author: goldie
+description:
+        '''
+        
+        Unlocks components from the Advancements mod.
+        
+        (Please see Important Information on the repo page of this mod.)
+        '''
+
 version: "1.0.1"
 minGameVersion: "136"
 dependencies: [ advancements ]
+hideBrowser: false
