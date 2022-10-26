@@ -23,5 +23,5 @@ This is effectively a cheat mod. This mod gives the player access to over-powere
 
 Note:
 
-The original and authentic Advancements mod can be found here:
+The original Advancements mod can be found here:
 https://github.com/AureusStratus/Advancements
