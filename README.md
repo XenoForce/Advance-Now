@@ -1,4 +1,4 @@
-# Advance-Now
+# Advancements - Liberated
 Unlocks components from the "Advancements" mod.
 
 <br>
